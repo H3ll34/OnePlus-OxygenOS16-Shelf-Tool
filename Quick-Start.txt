@@ -1,0 +1,8 @@
+OnePlus OxygenOS 16 Setup:
+1. Copy .bat to platform-tools folder
+2. Settings → About phone → Build number (7x)
+3. Developer options → USB debugging ON
+4. Connect USB cable
+5. Run OnePlus-OxygenOS16-Shelf.bat
+6. Choose 0, 1, or 2
+7. Reboot OnePlus
